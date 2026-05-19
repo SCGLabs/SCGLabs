@@ -98,10 +98,8 @@ Azure and AWS security fundamentals — identity, access, logging, monitoring, a
 
 ## 🔧 Currently Building
 
-- 📋 Completing a full ISO 27001:2022 implementation portfolio — scoping, risk treatment, SoA, internal audit, and management review documentation
 - ☁️ Working toward **AZ-500 Microsoft Azure Security Engineer** certification
 - 🔐 Building hands-on labs for Azure IAM, Conditional Access, and Microsoft Sentinel
-- 📄 Developing reusable GRC templates for risk registers, audit evidence packs, and corrective action tracking
 
 ---
 
