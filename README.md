@@ -8,7 +8,7 @@
 
 Hi, I'm **Zain** — a GRC and Cloud Security Analyst based in Melbourne, Australia.
 
-I hold a **Master of Cyber Security from RMIT** and am a certified **ISO/IEC 27001:2022 Lead Implementer** and **ISO 31000 Enterprise Risk Manager**. My work sits at the intersection of information security governance, risk management, compliance documentation, and cloud security.
+I hold a **Master of Cyber Security from RMIT University** and have recently passed the **PECB ISO/IEC 27001:2022 Lead Implementer** examination, alongside credentials in **ISO 31000 Enterprise Risk Management**. My work is centred on strengthening organisational security posture through the integration of information security governance, enterprise risk management, compliance assurance, and cloud security across modern enterprise environments.
 
 This GitHub profile is where I document my hands-on lab work, case study projects, and portfolio artefacts — built to demonstrate practical skills in GRC and cloud security environments.
 
@@ -20,7 +20,7 @@ This GitHub profile is where I document my hands-on lab work, case study project
 
 - Governance, Risk and Compliance (GRC)
 - ISO/IEC 27001:2022 implementation and audit readiness
-- Cloud security fundamentals across Azure and AWS
+- Multi-cloud security architecture & governance
 - Identity and access management controls
 
 ---
